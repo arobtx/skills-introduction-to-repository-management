@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @arobtx
+/src/backend/database.py      @arobtx
+/src/backend/routers/auth.py  @arobtx
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @arobtx
